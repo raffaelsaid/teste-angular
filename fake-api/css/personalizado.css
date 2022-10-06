@@ -1,0 +1,79 @@
+
+nav ul li.menu a{
+    color: #fff !important;
+
+}
+nav ul li.menu a:hover{
+    color: #e7e7ed !important;
+}
+header{
+    margin-bottom: 119px !important;
+}
+.servicos{
+    background-color: #f6f6f8;
+    border-radius: 0rem;
+    border-bottom: 0rem;
+    
+}
+.titulo-servicos{
+    color: #252c41;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+.tamanho-icone{
+    font-size: 100px;
+    color: #f06292;
+}
+.depoimento{
+    background-color: #f6f6f8;
+    border-radius: 0rem;
+    border-bottom: 0rem;
+    ;
+}
+.titulo-depoimento{
+    color: #252c41;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+.desc.depoimento{
+    margin-bottom: 50px;
+    color: #252c41;
+}
+.videos{
+    margin-bottom: 40px;
+    margin-top: 40px;
+   
+    max-width: 100%;
+    height: auto;
+}
+.rodape{
+    background-color:#252c60;
+    border-radius: 0rem;
+    border-bottom: 0rem;
+    color: #fff;
+}
+.rodape ul li a.link-rodape{
+    color: #fff !important;    
+}
+.rodape ul li a.link-rodape:hover{
+    color: #e7e7ed !important;
+    text-decoration: none;
+}
+.sobre-empresa{
+    background-color: #f9faff;
+    border-radius: 0rem;
+    border-bottom: 0rem;
+   
+}
+.titulo{
+   margin-bottom: 40px;
+    color: #252c41;
+    margin-top: 40px;
+}
+
+.contato{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
