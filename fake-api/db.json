@@ -38,21 +38,6 @@
     }
   ],
   "clientes": [
-    {
-      "cep": "32230260",
-      "rua": "Rua Dois",
-      "cidade": "Contagem",
-      "bairro": "Industrial",
-      "uf": "MG",
-      "id": 1
-    },
-    {
-      "cep": "35675000",
-      "rua": "Rua Josefina Fabris",
-      "cidade": "Juatuba",
-      "bairro": "Nova Esperança",
-      "uf": "MG",
-      "id": 2
-    }
+  
   ]
 }
